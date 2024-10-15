@@ -5,6 +5,7 @@
 // Store the user's input.
 // Convert user input into an object.
 // Log that object to the console. 
+// Push to GitHub.
 
 
 const userInput = prompt(`What flavors of Froyo have you ordered recently? List them out here, separated by commas.`, `vanilla, vanilla, coffee, coffee, strawberry, chocolate, caramel`);
